@@ -1,0 +1,19 @@
+IG_UI_FR = {
+	IGUI_VehicleName91geoMetro = "'91 Géo Métro",
+
+	IGUI_VehiclePartGEO91BumperFront = "Pare-chocs avant",
+	IGUI_VehiclePartGEO91BumperRear = "Pare-chocs arrière",
+	IGUI_VehiclePartGEO91SpareTire = "Pneu de secours",
+
+	IGUI_VehiclePartGEO91WindshieldArmor = "Blindage de pare-brise",
+	IGUI_VehiclePartGEO91WindshieldRearArmor = "Blindage de pare-brise arrière",
+	IGUI_VehiclePartGEO91WindowFrontLeftArmor = "Blindage de vitre avant gauche",
+	IGUI_VehiclePartGEO91WindowFrontRightArmor = "Blindage de vitre avant droite",
+	IGUI_VehiclePartGEO91WindowRearLeftArmor = "Blindage de vitre arrière gauche",
+	IGUI_VehiclePartGEO91WindowRearRightArmor = "Blindage de vitre arrière droite",
+
+	IGUI_VehiclePartGEO91Trunk = "Coffre",
+	IGUI_VehiclePartGEO91Roofrack = "Galerie de toit",
+
+	IGUI_CraftCategory_GEO91 = "'91 Géo Métro",
+}
