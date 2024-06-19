@@ -12,4 +12,18 @@ Recipes_FR = {
 	Recipe_Make_GEO91_Windshield = "Fabriquer Pare-brise",
 	Recipe_Make_GEO91_Windshield_Armor = "Fabriquer Blindage de Pare-brise",
 	Recipe_Make_GEO91_Wooden_Roofrack = "Fabriquer Galerie de toit boisée",
+
+	Recipe_Dismantle_Geo_Metro_Door = "Démonter Portière",
+	Recipe_Dismantle_Geo_Metro_Lid = "Démonter Coffre",
+	Recipe_Dismantle_Geo_Metro_Roofrack = "Démonter Galerie de toit",
+	Recipe_Dismantle_Geo_Metro_Seat = "Démonter Siège",
+	Recipe_Dismantle_Geo_Metro_Tire = "Démonter Pneu",
+	Recipe_Make_Front_Window_Armor = "Fabriquer Blindage de Vitre avant",
+	Recipe_Make_Metal_Roofrack = "Fabriquer Galerie de toit",
+	Recipe_Make_Rear_Window_Armor = "Fabriquer Blindage de Vitre arrière",
+	Recipe_Make_Rear_Windshield_Armor = "Fabriquer Blindage de Pare-brise arrière",
+	Recipe_Make_Reinforced_Bumper = "Fabriquer Pare-chocs renforcé",
+	Recipe_Make_Vehicle_Tire = "Fabriquer Pneu",
+	Recipe_Make_Windshield_Armor = "Fabriquer Blindage de Pare-brise",
+	Recipe_Make_Wooden_Roofrack = "Fabriquer Galerie de toit boisée",
 }
